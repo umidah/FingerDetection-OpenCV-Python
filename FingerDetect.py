@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 13 09:56:07 2020
 
-@author: Bombita & See
+@author: Bombita, Megino, Parco & See
 """
 
 from __future__ import print_function
